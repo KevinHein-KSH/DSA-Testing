@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+*.dll
+
+# Debug and profiling
+*.stackdump
+*.dSYM/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*~
